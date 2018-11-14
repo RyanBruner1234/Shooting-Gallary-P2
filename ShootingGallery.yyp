@@ -159,14 +159,6 @@
             }
         },
         {
-            "Key": "8c5d6404-ced1-4707-b81e-4a7ffc33d642",
-            "Value": {
-                "id": "bfb60e49-cf34-48bd-8a54-4231de0f2681",
-                "resourcePath": "objects\\obj_score\\obj_score.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "93192b2f-3e11-4703-b267-40fcdec0d169",
             "Value": {
                 "id": "1067bf0f-049d-4dd1-9417-1dbbe20db2ec",
