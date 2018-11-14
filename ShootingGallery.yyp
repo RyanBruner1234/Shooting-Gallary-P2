@@ -186,7 +186,7 @@
             "Key": "9ed13b3c-32fa-470f-9e8b-91e74921deef",
             "Value": {
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room_main\\room_main.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -295,11 +295,27 @@
             }
         },
         {
+            "Key": "e763da96-0295-4f8e-a599-441124ec9a72",
+            "Value": {
+                "id": "e8858953-d019-402f-9782-10c2f771715c",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea1487fe-b7d3-439a-b2ad-f10d65b04681",
             "Value": {
                 "id": "f1f7f0f0-d299-48da-af19-49a9948dc9e5",
                 "resourcePath": "sprites\\spr_duck_target\\spr_duck_target.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f3de6db8-4899-4880-946b-826a5ece1aed",
+            "Value": {
+                "id": "707de8a0-c4d9-4e37-9b9b-a1f2ba7133d8",
+                "resourcePath": "timelines\\timeline_room_main\\timeline_room_main.yy",
+                "resourceType": "GMTimeline"
             }
         }
     ],
